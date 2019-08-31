@@ -4,13 +4,13 @@
 * After running the program, give the path of the dataset.
 * The dataset must have 2 folder named Train and Test.
 
-
+$ tree --Images
     .
     ├── Train
-    │   ├── Airplane
-    │   ├── Cat
-    │   ├── Dog
-    │   └── Others
+    │   
+    │   
+    │   
+    │   
     └── Test
         ├── Airplane
         ├── Cat
@@ -19,11 +19,11 @@
         
     .
     ├── build                   
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
+    │   ├── Airplane                # Documentation files (alternatively `doc`)
+    │   ├── Cat                     # Source files (alternatively `lib` or `app`)
+    │   ├── Dog                       # Automated tests (alternatively `spec` or `tests`)
+    │   └── Others                  # Tools and utilities
+    │── LICENSE
     └── README.md
     
 * After giving the path, choose the methods for image classification.
