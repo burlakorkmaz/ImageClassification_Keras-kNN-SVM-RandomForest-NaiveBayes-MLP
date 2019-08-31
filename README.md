@@ -61,6 +61,9 @@ $ tree --Images
 
 # Images From:
 * Open Images Dataset V4-V5
+* Dogs vs Cats dataset from Microsoft 
 
 # How to download Open Images V4
 ## [Open Images V4 Image Downloading Tool](https://github.com/EscVM/OIDv4_ToolKit?fbclid=IwAR2Msqh8tzkpdNDC4f1LDv4u43iuBRR9FLyFxDXqHJfXhkvPPyJ2zRNbchg)
+## How to download Dogs vs Cats Dataset
+## [Dogs vs Cats Images](https://www.microsoft.com/en-us/download/details.aspx?id=54765&WT.mc_id=rss_alldownloads_devresources)
