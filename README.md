@@ -59,7 +59,7 @@ $ tree --Images
     * Evaluates the accuracy.
 * Return to “4”.
 
-# Images From:
+# Example Images From:
 * Open Images Dataset V4-V5
 * Dogs vs Cats dataset from Microsoft 
 
