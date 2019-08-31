@@ -5,29 +5,18 @@
 * The dataset must have 2 folder named Train and Test.
 
 $ tree --Images
+          
     .
-    ├── Train
-    │   
-    │   
-    │   
-    │   
-    └── Test
-        ├── Airplane
-        ├── Cat
-        ├── Dog
-        └── Others
-        
-    .
-    ├── Train                   
-    │   ├── Airplane                # Documentation files (alternatively `doc`)
-    │   ├── Cat                     # Source files (alternatively `lib` or `app`)
-    │   ├── Dog                       # Automated tests (alternatively `spec` or `tests`)
+    ├── Train                       
+    │   ├── Airplane                
+    │   ├── Cat                    
+    │   ├── Dog                     
     │   └── Others     
     └── Test                   
-        ├── Airplane                # Documentation files (alternatively `doc`)
-        ├── Cat                     # Source files (alternatively `lib` or `app`)
-        ├── Dog                       # Automated tests (alternatively `spec` or `tests`)
-        └── Others    # Tools and utilities
+        ├── Airplane                
+        ├── Cat                     
+        ├── Dog                     
+        └── Others                  
     
 * After giving the path, choose the methods for image classification.
 * For exit , enter q.
