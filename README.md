@@ -18,13 +18,16 @@ $ tree --Images
         └── Others
         
     .
-    ├── build                   
+    ├── Train                   
     │   ├── Airplane                # Documentation files (alternatively `doc`)
     │   ├── Cat                     # Source files (alternatively `lib` or `app`)
     │   ├── Dog                       # Automated tests (alternatively `spec` or `tests`)
-    │   └── Others                  # Tools and utilities
-    │── LICENSE
-    └── README.md
+    │   └── Others     
+    └── Test                   
+        ├── Airplane                # Documentation files (alternatively `doc`)
+        ├── Cat                     # Source files (alternatively `lib` or `app`)
+        ├── Dog                       # Automated tests (alternatively `spec` or `tests`)
+        └── Others    # Tools and utilities
     
 * After giving the path, choose the methods for image classification.
 * For exit , enter q.
