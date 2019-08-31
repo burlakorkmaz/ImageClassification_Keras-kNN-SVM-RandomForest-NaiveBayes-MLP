@@ -16,6 +16,15 @@ $ tree --Images
         ├── Cat
         ├── Dog
         └── Others
+        
+    .
+    ├── build                   
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
     
 * After giving the path, choose the methods for image classification.
 * For exit , enter q.
