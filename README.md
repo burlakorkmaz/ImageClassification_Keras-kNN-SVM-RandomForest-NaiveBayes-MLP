@@ -44,10 +44,8 @@
     * Evaluates the accuracy.
 * Return to “4”.
 
-## Images From:
+# Images From:
 * Open Images Dataset V4-V5
 
-## How to download Open Images V4
-* https://github.com/EscVM/OIDv4_ToolKit?fbclid=IwAR2Msqh8tzkpdNDC4f1LDv4u43iuBRR9FLyFxDXqHJfXhkvPPyJ2zRNbchg
-
+# How to download Open Images V4
 ## [Open Images V4 Image Downloading Tool](https://github.com/EscVM/OIDv4_ToolKit?fbclid=IwAR2Msqh8tzkpdNDC4f1LDv4u43iuBRR9FLyFxDXqHJfXhkvPPyJ2zRNbchg)
