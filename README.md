@@ -1,7 +1,7 @@
 # ImageClassification / Methods.py
 ## How to use the program:
 
-* After running the program, give the path of the dataset. Name of the dataset folder is Images by default.
+* After running the program, give the path of the dataset. 
 * The dataset must have 2 folder named Train and Test.
 
 $ tree --Images
